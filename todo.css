@@ -44,6 +44,10 @@ input, button{
     margin-top: 50px;
 }
 
+#displayError{
+    color: red;
+
+
 .displayTasks{
     background-color: whitesmoke;
     min-width: 400px;
